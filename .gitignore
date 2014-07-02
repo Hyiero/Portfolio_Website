@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+web.config
+.idea/
+node_modules/
